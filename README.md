@@ -1,8 +1,8 @@
-# HRNN as Probabilistic Finite-State Automata — Replication
+# HRNN as Probabilistic Finite-State Automata - Replication
 
 Empirical replication and extension of:
-- Svete & Cotterell (2023) — Recurrent Neural Language Models as Probabilistic Finite-State Automata (EMNLP 2023)
-- Svete et al. (2024) — Lower Bounds on the Expressivity of Recurrent Neural Language Models (NAACL 2024)
+- Svete & Cotterell (2023) - Recurrent Neural Language Models as Probabilistic Finite-State Automata (EMNLP 2023)
+- Svete et al. (2024) - Lower Bounds on the Expressivity of Recurrent Neural Language Models (NAACL 2024)
 
 ## What this project does
 1. Implements a Weighted Finite-State Automaton (WFSA) from scratch
@@ -11,7 +11,7 @@ Empirical replication and extension of:
 4. Empirically validates the theoretical hierarchy: Constant Precision < Linear Precision < CoT
 
 ## Status
-🔧 In progress — started June 2026
+🔧 In progress - started June 2026
 
 ## Papers
 - Svete & Cotterell, EMNLP 2023
